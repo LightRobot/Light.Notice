@@ -17,7 +17,7 @@ namespace Light.Notice.Demo
 //			}
 
 //			我要更新下
-
+//			我要再更新下
 			NoticeExecutor executor = NoticeManager.GetNoticeSender ("test1");
 
 			executor.SendData ("test4", "test content haha", "mytest", false, true);
