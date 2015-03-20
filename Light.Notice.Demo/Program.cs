@@ -16,7 +16,7 @@ namespace Light.Notice.Demo
 //				Console.WriteLine (config.Name);
 //			}
 
-
+//			我要更新下
 
 			NoticeExecutor executor = NoticeManager.GetNoticeSender ("test1");
 
